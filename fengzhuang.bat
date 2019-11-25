@@ -1,0 +1,1 @@
+pyinstaller -F -w --icon=auto.ico auto.py --console
