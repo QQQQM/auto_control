@@ -4,7 +4,7 @@ block_cipher = None
 
 
 a = Analysis(['auto.py'],
-             pathex=['C:\\D\\myprocject\\auto_control'],
+             pathex=['D:\\myprocject\\auto_control'],
              binaries=[],
              datas=[],
              hiddenimports=[],
